@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DmGyrzwuNjcF5/1lnjLTU3YB4kFq5RlUGg1sbR7ZBAxtLTB3uU0OJGe+2i8VPv8hxTSKivyDpw8KbSAKTNUQ4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alessia.lionetto\\source\\repos\\Week9\\EsercitazioneFinale_Week9\\FactoryPattern\\FactoryPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alessia.lionetto\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\alessia.lionetto\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\alessia.lionetto\source\repos\Week9\EsercitazioneFinale_Week9\EsercitazioneFinale_Week9\bin\Debug\netcoreapp3.1\EsercitazioneFinale_Week9.exe
+C:\Users\alessia.lionetto\source\repos\Week9\EsercitazioneFinale_Week9\EsercitazioneFinale_Week9\bin\Debug\netcoreapp3.1\EsercitazioneFinale_Week9.deps.json
+C:\Users\alessia.lionetto\source\repos\Week9\EsercitazioneFinale_Week9\EsercitazioneFinale_Week9\bin\Debug\netcoreapp3.1\EsercitazioneFinale_Week9.runtimeconfig.json
+C:\Users\alessia.lionetto\source\repos\Week9\EsercitazioneFinale_Week9\EsercitazioneFinale_Week9\bin\Debug\netcoreapp3.1\EsercitazioneFinale_Week9.runtimeconfig.dev.json
+C:\Users\alessia.lionetto\source\repos\Week9\EsercitazioneFinale_Week9\EsercitazioneFinale_Week9\bin\Debug\netcoreapp3.1\EsercitazioneFinale_Week9.dll
+C:\Users\alessia.lionetto\source\repos\Week9\EsercitazioneFinale_Week9\EsercitazioneFinale_Week9\bin\Debug\netcoreapp3.1\EsercitazioneFinale_Week9.pdb
+C:\Users\alessia.lionetto\source\repos\Week9\EsercitazioneFinale_Week9\EsercitazioneFinale_Week9\obj\Debug\netcoreapp3.1\EsercitazioneFinale_Week9.csproj.AssemblyReference.cache
+C:\Users\alessia.lionetto\source\repos\Week9\EsercitazioneFinale_Week9\EsercitazioneFinale_Week9\obj\Debug\netcoreapp3.1\EsercitazioneFinale_Week9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alessia.lionetto\source\repos\Week9\EsercitazioneFinale_Week9\EsercitazioneFinale_Week9\obj\Debug\netcoreapp3.1\EsercitazioneFinale_Week9.AssemblyInfoInputs.cache
+C:\Users\alessia.lionetto\source\repos\Week9\EsercitazioneFinale_Week9\EsercitazioneFinale_Week9\obj\Debug\netcoreapp3.1\EsercitazioneFinale_Week9.AssemblyInfo.cs
+C:\Users\alessia.lionetto\source\repos\Week9\EsercitazioneFinale_Week9\EsercitazioneFinale_Week9\obj\Debug\netcoreapp3.1\EsercitazioneFinale_Week9.csproj.CoreCompileInputs.cache
+C:\Users\alessia.lionetto\source\repos\Week9\EsercitazioneFinale_Week9\EsercitazioneFinale_Week9\obj\Debug\netcoreapp3.1\EsercitazioneFinale_Week9.dll
+C:\Users\alessia.lionetto\source\repos\Week9\EsercitazioneFinale_Week9\EsercitazioneFinale_Week9\obj\Debug\netcoreapp3.1\EsercitazioneFinale_Week9.pdb
+C:\Users\alessia.lionetto\source\repos\Week9\EsercitazioneFinale_Week9\EsercitazioneFinale_Week9\obj\Debug\netcoreapp3.1\EsercitazioneFinale_Week9.genruntimeconfig.cache
